@@ -3,6 +3,8 @@ GreatBy8
 
 Search-and-Filter Map (with 2 layers: points and polygons, with dynamic legend) that draws data from Google Fusion Tables, based on template by Derek Eder
 
+Project Demo: http://MikeandKaitlyn.github.io/greatby8
+
 Live demo at http://jackdougherty.github.io/greatby8
 
 Use this template if you wish to create a Search-and-Filter map that turns on/off at least 2 layers (points and polygons), with a dynamic legend for thematic polygons, and draws data from Google Fusion Tables. The default point map displays a textual legend (A, B, C), with option to switch to numeric (0-100) values. Based on template customized by Derek Eder http://derekeder.com/searchable_map_template/
